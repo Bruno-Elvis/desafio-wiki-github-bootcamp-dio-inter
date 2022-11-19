@@ -1,5 +1,3 @@
-import React from 'react'
-
 import { ButtonContainer } from './styles';
 
 function Button({onClick}) {
@@ -7,7 +5,9 @@ function Button({onClick}) {
     <ButtonContainer onClick={onClick}>
        Buscar
     </ButtonContainer>
-  )
-}
 
-export default Button
+  );
+
+};
+
+export default Button;

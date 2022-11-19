@@ -23,4 +23,5 @@ export const ItemContainer = styled.div`
         color: #FAFAFA60;
         margin: 20px 0;
     }
-`
+
+`;
